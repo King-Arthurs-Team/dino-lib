@@ -5187,6 +5187,120 @@
       <tags />
       <IsPlaceholder>false</IsPlaceholder>
     </Creature>
+    <Creature>
+      <species>Direbear</species>
+      <name>Eisbär II</name>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>40</int>
+        <int>34</int>
+        <int>20</int>
+        <int>28</int>
+        <int>34</int>
+        <int>46</int>
+        <int>26</int>
+        <int>228</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0.14000001328337841</imprintingBonus>
+      <owner>Adrido</owner>
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>0561dc23-31c3-05bc-0000-000000000000</guid>
+      <ArkId>413259979489926179</ArkId>
+      <ArkIdImported>true</ArkIdImported>
+      <isBred>true</isBred>
+      <fatherGuid>18fce4f8-7266-0564-0000-000000000000</fatherGuid>
+      <motherGuid>0aedcf33-3318-065f-0000-000000000000</motherGuid>
+      <generation>2</generation>
+      <colors>
+        <int>35</int>
+        <int>50</int>
+        <int>0</int>
+        <int>3</int>
+        <int>38</int>
+        <int>8</int>
+      </colors>
+      <growingUntil>2019-01-06T18:23:27.4158346+01:00</growingUntil>
+      <cooldownUntil>2019-01-06T18:23:27.4148396+01:00</cooldownUntil>
+      <domesticatedAt>2019-01-06T18:23:16.5843087+01:00</domesticatedAt>
+      <addedToLibrary>2019-01-06T18:23:27.4158346+01:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <IsPlaceholder>false</IsPlaceholder>
+    </Creature>
+    <Creature>
+      <species>Direbear</species>
+      <name>Orangeneis</name>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>40</int>
+        <int>34</int>
+        <int>20</int>
+        <int>29</int>
+        <int>34</int>
+        <int>46</int>
+        <int>25</int>
+        <int>228</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0.14000001328337841</imprintingBonus>
+      <owner>Adrido</owner>
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>12634f5d-87f4-1b86-0000-000000000000</guid>
+      <ArkId>1983422168253550429</ArkId>
+      <ArkIdImported>true</ArkIdImported>
+      <isBred>true</isBred>
+      <fatherGuid>18fce4f8-7266-0564-0000-000000000000</fatherGuid>
+      <motherGuid>07059cea-5ecd-0aef-0000-000000000000</motherGuid>
+      <generation>2</generation>
+      <colors>
+        <int>22</int>
+        <int>38</int>
+        <int>0</int>
+        <int>3</int>
+        <int>38</int>
+        <int>8</int>
+      </colors>
+      <growingUntil>2019-01-06T18:24:36.0911741+01:00</growingUntil>
+      <cooldownUntil>2019-01-06T18:24:36.0911741+01:00</cooldownUntil>
+      <domesticatedAt>2019-01-06T18:24:02.6453999+01:00</domesticatedAt>
+      <addedToLibrary>2019-01-06T18:24:36.0911741+01:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <IsPlaceholder>false</IsPlaceholder>
+    </Creature>
   </creatures>
   <creaturesValues>
     <CreatureValues>
