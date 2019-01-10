@@ -5042,7 +5042,7 @@
         <int>0</int>
       </levelsDom>
       <tamingEff>1</tamingEff>
-      <imprintingBonus>0.059999702049896575</imprintingBonus>
+      <imprintingBonus>0.99999526696329233</imprintingBonus>
       <owner>Caroline</owner>
       <imprinterName />
       <tribe />
@@ -5075,63 +5075,6 @@
     </Creature>
     <Creature>
       <species>Rex</species>
-      <name>Rex 26</name>
-      <sex>Male</sex>
-      <status>Available</status>
-      <levelsWild>
-        <int>39</int>
-        <int>31</int>
-        <int>35</int>
-        <int>32</int>
-        <int>37</int>
-        <int>38</int>
-        <int>30</int>
-        <int>242</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0.05999997401895607</imprintingBonus>
-      <owner>Caroline</owner>
-      <imprinterName />
-      <tribe />
-      <server />
-      <note />
-      <guid>1cccd35a-0ab6-189c-0000-000000000000</guid>
-      <ArkId>1773304130560643930</ArkId>
-      <ArkIdImported>true</ArkIdImported>
-      <isBred>true</isBred>
-      <fatherGuid>0032eb78-83ef-11a1-0000-000000000000</fatherGuid>
-      <motherGuid>143be710-34f6-09f0-0000-000000000000</motherGuid>
-      <generation>3</generation>
-      <colors>
-        <int>20</int>
-        <int>13</int>
-        <int>0</int>
-        <int>20</int>
-        <int>35</int>
-        <int>34</int>
-      </colors>
-      <growingUntil>2019-01-06T07:37:02.4355557+01:00</growingUntil>
-      <cooldownUntil>2019-01-06T07:37:02.4355557+01:00</cooldownUntil>
-      <domesticatedAt>2019-01-06T07:36:32.2640703+01:00</domesticatedAt>
-      <addedToLibrary>2019-01-06T07:37:02.4355557+01:00</addedToLibrary>
-      <neutered>false</neutered>
-      <mutationsMaternal>0</mutationsMaternal>
-      <mutationsPaternal>0</mutationsPaternal>
-      <tags />
-      <IsPlaceholder>false</IsPlaceholder>
-    </Creature>
-    <Creature>
-      <species>Rex</species>
       <name>Rex 27</name>
       <sex>Male</sex>
       <status>Available</status>
@@ -5156,7 +5099,7 @@
         <int>0</int>
       </levelsDom>
       <tamingEff>1</tamingEff>
-      <imprintingBonus>0.059999853662426883</imprintingBonus>
+      <imprintingBonus>0.99999509360421079</imprintingBonus>
       <owner>Caroline</owner>
       <imprinterName />
       <tribe />
@@ -5295,6 +5238,120 @@
       <cooldownUntil>2019-01-06T18:24:36.0911741+01:00</cooldownUntil>
       <domesticatedAt>2019-01-06T18:24:02.6453999+01:00</domesticatedAt>
       <addedToLibrary>2019-01-06T18:24:36.0911741+01:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <IsPlaceholder>false</IsPlaceholder>
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>Rex 29</name>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>39</int>
+        <int>31</int>
+        <int>35</int>
+        <int>32</int>
+        <int>42</int>
+        <int>38</int>
+        <int>30</int>
+        <int>247</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0.29181858794502635</imprintingBonus>
+      <owner>Caroline</owner>
+      <imprinterName />
+      <tribe />
+      <server>Ragnarok</server>
+      <note />
+      <guid>193671ee-8d41-1d39-0000-000000000000</guid>
+      <ArkId>2105869611507806702</ArkId>
+      <ArkIdImported>true</ArkIdImported>
+      <isBred>true</isBred>
+      <fatherGuid>0032eb78-83ef-11a1-0000-000000000000</fatherGuid>
+      <motherGuid>143be710-34f6-09f0-0000-000000000000</motherGuid>
+      <generation>3</generation>
+      <colors>
+        <int>20</int>
+        <int>13</int>
+        <int>0</int>
+        <int>20</int>
+        <int>18</int>
+        <int>34</int>
+      </colors>
+      <growingUntil>2019-01-09T17:20:47.0355216+01:00</growingUntil>
+      <cooldownUntil>2019-01-09T17:20:47.0355216+01:00</cooldownUntil>
+      <domesticatedAt>2019-01-09T17:20:23.6393773+01:00</domesticatedAt>
+      <addedToLibrary>2019-01-09T17:20:47.0355216+01:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+      <IsPlaceholder>false</IsPlaceholder>
+    </Creature>
+    <Creature>
+      <species>Rex</species>
+      <name>Rex 30</name>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>43</int>
+        <int>31</int>
+        <int>35</int>
+        <int>37</int>
+        <int>42</int>
+        <int>38</int>
+        <int>32</int>
+        <int>258</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0.28181841254306284</imprintingBonus>
+      <owner>Adrido</owner>
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>15d55978-e902-19f9-0000-000000000000</guid>
+      <ArkId>1871783315314661752</ArkId>
+      <ArkIdImported>true</ArkIdImported>
+      <isBred>true</isBred>
+      <fatherGuid>0032eb78-83ef-11a1-0000-000000000000</fatherGuid>
+      <motherGuid>143be710-34f6-09f0-0000-000000000000</motherGuid>
+      <generation>3</generation>
+      <colors>
+        <int>20</int>
+        <int>13</int>
+        <int>0</int>
+        <int>20</int>
+        <int>18</int>
+        <int>34</int>
+      </colors>
+      <growingUntil>2019-01-09T17:22:37.3452359+01:00</growingUntil>
+      <cooldownUntil>2019-01-09T17:22:37.3452359+01:00</cooldownUntil>
+      <domesticatedAt>2019-01-09T17:22:04.2919295+01:00</domesticatedAt>
+      <addedToLibrary>2019-01-09T17:22:37.3452359+01:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationsMaternal>0</mutationsMaternal>
       <mutationsPaternal>0</mutationsPaternal>
